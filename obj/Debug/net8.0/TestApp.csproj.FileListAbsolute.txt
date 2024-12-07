@@ -1,0 +1,14 @@
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\bin\Debug\net8.0\TestApp.exe
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\bin\Debug\net8.0\TestApp.deps.json
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\bin\Debug\net8.0\TestApp.runtimeconfig.json
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\bin\Debug\net8.0\TestApp.dll
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\bin\Debug\net8.0\TestApp.pdb
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.dll
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.pdb
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\TestApp.genruntimeconfig.cache
+C:\Users\FISBITECH\Desktop\New Project\New folder\TestApp\obj\Debug\net8.0\ref\TestApp.dll
